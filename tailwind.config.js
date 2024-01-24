@@ -5,7 +5,7 @@ module.exports = {
     './index.html',
     './tailwind.config.js',
     './src/main.css',
-    './public/styles.css'
+
   ],
   theme: {
     extend: {
