@@ -8,7 +8,7 @@ module.exports = {
       },
       colors: {
       //  your custom colors
-      }
+      },
       fontFamily: {
         main: ['Montserrat'],
       },
